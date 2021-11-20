@@ -1,0 +1,80 @@
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: open;
+    background-image: url(./assets/home/background-home-desktop.jpg);
+    margin: 50px 100px;
+
+}
+
+header {
+    display: flex;
+    justify-content: end;
+    align-content: center;
+    text-align: center;
+     ;
+    /* margin-left: 800px; */
+    margin-left: 600px;
+}
+
+ ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0px px;
+}
+ul li a {
+    padding: 0 10px;
+    text-decoration: none;
+    color: white; 
+    margin: 4px 1px;   
+    text-align: center;
+    justify-content: end;
+    align-content: center;
+}
+
+span {
+    padding: 0 8px;
+}
+
+p {
+    width: 400px;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.teacher {
+    color: white;
+    padding-left: 10px;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+
+.student {
+    color: white;
+    padding: 10px 0;
+    letter-spacing: 5px;
+    font-size: 49px;
+}
+
+.learn {
+    color: papayawhip;
+    padding-left: 800px;
+    font-size: 20px;
+}
+
+main {
+    margin: 100px;
+}
+
+.read {
+padding: 0px 200px;
+}
+
+.obey {
+    padding-left: 800px;
+}
+
